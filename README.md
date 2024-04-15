@@ -8,7 +8,8 @@
 
 - Real time messages
 - User authentication
-- Block User
-- Add User
-- Last Seen
-- Read & Unread notification
+- User profile
+- Block user
+- Add user
+- Send images
+- Read & unread notification
