@@ -1,3 +1,14 @@
-# Lama Dev Chat App Starter template
+# Real time chat App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- React
+- Firebase
+- Zustand
+
+## Features
+
+- Real time messages
+- User authentication
+- Block User
+- Add User
+- Last Seen
+- Read & Unread notification
